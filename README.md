@@ -10,7 +10,7 @@ Based in Giza, Egypt. Computer Engineering graduate from Cairo University, **Cla
 
 ## Professional experience
 
-### [Menassatok](https://menassatok.com/) — Freelance Full-Stack Developer
+### [Menassatok](https://menassatok.com/) — Full-Stack Developer
 
 **October 2025 – September 2026**
 
